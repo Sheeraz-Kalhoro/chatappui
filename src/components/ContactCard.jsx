@@ -31,10 +31,7 @@ const ContactCard = () => {
                     <ListItemText>
                         <Typography>
                             {contact.userName}
-                        <Typography>
-                        <span>hi</span>
 
-                        </Typography>
                         </Typography>
                     </ListItemText>
                 </ListItemButton>

@@ -8,6 +8,7 @@ function StartNewChat() {
       <Fab color="primary" aria-label="Start Chat">
         <ChatRounded />
       </Fab>
+      
     </Box>
   );
 }
